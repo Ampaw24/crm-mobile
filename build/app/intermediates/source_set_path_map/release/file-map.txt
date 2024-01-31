@@ -1,0 +1,13 @@
+com.example.crm_mobile.app-jetified-annotation-experimental-1.1.0-0 /home/safo/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.crm_mobile.app-jetified-window-1.0.0-beta04-1 /home/safo/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+com.example.crm_mobile.app-jetified-window-java-1.0.0-beta04-2 /home/safo/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.crm_mobile.app-core-1.6.0-3 /home/safo/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+com.example.crm_mobile.app-main-4 /home/safo/project/CRM-Mobile-New/android/app/src/main/res
+com.example.crm_mobile.app-release-5 /home/safo/project/CRM-Mobile-New/android/app/src/release/res
+com.example.crm_mobile.app-pngs-6 /home/safo/project/CRM-Mobile-New/build/app/generated/res/pngs/release
+com.example.crm_mobile.app-resValues-7 /home/safo/project/CRM-Mobile-New/build/app/generated/res/resValues/release
+com.example.crm_mobile.app-rs-8 /home/safo/project/CRM-Mobile-New/build/app/generated/res/rs/release
+com.example.crm_mobile.app-mergeReleaseResources-9 /home/safo/project/CRM-Mobile-New/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.crm_mobile.app-mergeReleaseResources-10 /home/safo/project/CRM-Mobile-New/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.crm_mobile.app-merged_res-11 /home/safo/project/CRM-Mobile-New/build/app/intermediates/merged_res/release
+com.example.crm_mobile.app-packaged_res-12 /home/safo/project/CRM-Mobile-New/build/path_provider_android/intermediates/packaged_res/release
